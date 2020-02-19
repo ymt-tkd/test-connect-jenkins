@@ -6,3 +6,4 @@ jobを繋げましたわ！！！
 
 DownStreamを消してみた
 office 365 connector の見覚えのないチェックボックスを外した
+再チャレ
